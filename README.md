@@ -4,6 +4,8 @@ This project is a **Loan Approval Prediction System** built with **Streamlit** a
 
 If you’re forking this project to **modify, improve, or contribute**, follow the steps below.  
 
+# https://loan-approve-system.streamlit.app/
+
 ---
 
 ## 🔥 **How to Fork & Clone**  
